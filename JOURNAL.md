@@ -6,6 +6,26 @@ created_at: "2026-11-24"
 total_time: "11h"
 ---
 
+---
+title: "KSP controller"
+github: "https://github.com/StefmanTV/Kerbal-Space-Programme-Controller"
+description: "KSP controller"
+created_at: "2026-11-24"
+total_time: "16h"
+---
+
+# November 26, 2026: Working on proportions
+
+The last two days I've been learning Blender so I decided to test my skills by making the Controller in Blender. I want to see how good every 
+component will look on the board. I'ts been a hard two days, Blender is hard. I'll probably make a CAD in the next few days.
+
+![](https://fabricate.hackclub-assets.com/eac91cb4aa2616752e4f5fa10de9844f67f9a2eec685ced1b012ef3631319d1a/image-jpeg/20261126_210545.jpg)
+![](https://fabricate.hackclub-assets.com/c2a302043ffb0ea856f9234dfe7f54f67e560a5dd73d6d84e2e8b3251174a15f/image-jpeg/20261126_210554.jpg)
+![](https://fabricate.hackclub-assets.com/4c3004c70f8f15ed9b1dcf5cc59a2a7acd12bccc587304f1b6116de4847c3bf1/image-png/BlenderKSP.png)
+
+**Total time spent: 5h**
+
+
 # November 24, 2026: Making of KSP Controller
 
 I actually started working on this project almost a week ago. I made a prototype project mainly to understand how the software worked.

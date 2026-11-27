@@ -3,21 +3,6 @@ title: "KSP controller"
 github: "https://github.com/StefmanTV/Kerbal-Space-Programme-Controller"
 description: "KSP controller"
 created_at: "2026-11-24"
-total_time: "11h"
----
-
----
-title: "KSP controller"
-github: "https://github.com/StefmanTV/Kerbal-Space-Programme-Controller"
-description: "KSP controller"
-created_at: "2026-11-24"
-total_time: "16h"
----
----
-title: "KSP controller"
-github: "https://github.com/StefmanTV/Kerbal-Space-Programme-Controller"
-description: "KSP controller"
-created_at: "2026-11-24"
 total_time: "19h"
 ---
 

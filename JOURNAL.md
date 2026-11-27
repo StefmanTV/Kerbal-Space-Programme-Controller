@@ -13,6 +13,24 @@ description: "KSP controller"
 created_at: "2026-11-24"
 total_time: "16h"
 ---
+---
+title: "KSP controller"
+github: "https://github.com/StefmanTV/Kerbal-Space-Programme-Controller"
+description: "KSP controller"
+created_at: "2026-11-24"
+total_time: "19h"
+---
+
+# November 27, 2026: Made a 3D design on Blemder
+
+I finished the design, I thing everything looks great! I had some problems with the positioning of the rings in the joysticks for some reason, but I made it.
+
+![](https://fabricate.hackclub-assets.com/8e8eac7f990c1ebc203d6e2101f4ee5b81cac823362bf822c8d820eb985a8236/image-png/renderKSP.png)
+![](https://fabricate.hackclub-assets.com/6c31c5ab8d7ec424c3bfcb3a980f86ada959b5f7f1e041c70d4101d2f2acb6af/image-png/renderKSP1.png)
+![](https://fabricate.hackclub-assets.com/9b54df973484665019d37698d51a1e661dd5bd4015f0c330234bbd350c1f1918/image-png/renderKSP2.png)
+
+**Total time spent: 3h**
+
 
 # November 26, 2026: Working on proportions
 

@@ -6,7 +6,7 @@ created_at: "2026-11-24"
 total_time: "19h"
 ---
 
-# November 27, 2026: Made a 3D design on Blemder
+# November 27, 2026: Made a 3D design on Blender
 
 I finished the design, I thing everything looks great! I had some problems with the positioning of the rings in the joysticks for some reason, but I made it.
 
